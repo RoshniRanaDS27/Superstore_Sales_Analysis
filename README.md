@@ -4,6 +4,28 @@ The Superstore sales dataset for the Canadian market provides a detailed view of
 # Data 
 ![image](https://github.com/user-attachments/assets/aec1cf7e-3702-4417-b75e-8606241d76d5)
 
+# Analysis Results
+
+### 1. Analysis Of High Profit Product Sub-Categories As Per The Regions   
+  
+![image](https://github.com/user-attachments/assets/f440276c-4f27-4310-bda3-63766b64da89)
+
+### 2. Branching Highest Profit Product Sub category(Districts) to gain more insights withing that Region 
+
+![image](https://github.com/user-attachments/assets/c5709565-12b8-43f0-9633-3f9f7e426322)
+
+### 3. Analysis Of High Loss Making Product Sub-Categories As Per The Regions 
+
+![image](https://github.com/user-attachments/assets/4652071d-0aa8-4673-816a-ded0f0891cb9)
+
+### 4. Data Filtered for Cost Analysis for Tables and Bookcases as per Price and Margin on that. 
+
+![image](https://github.com/user-attachments/assets/da2d7c26-02ba-469a-992b-dbb497613f11)
+
+### 5. Cost and Margin Analysis Of Tables and book case's as per High loss making Sub category of Products (Further Branching Regions in to the sub categiries(District) to gain some more Info about geographical analysis)
+
+![image](https://github.com/user-attachments/assets/66d5a551-1d44-491d-900d-45d5366faa49)
+
 ## Customer Segments
 The dataset categorizes customers into the following segments:
 
@@ -52,27 +74,5 @@ This dataset offers a valuable resource for understanding sales dynamics in the 
 - Identify Trends: Determine key trends and patterns in sales and profit across different customer segments and product categories.
 - Optimize Performance: Evaluate factors affecting sales performance to suggest improvements and optimize marketing strategies.
 - Enhance Understanding: Gain a deeper understanding of customer preferences and regional variations to inform business decisions and strategy.
-
-# Analysis 
-
-### 1. Analysis Of High Profit Product Sub-Categories As Per The Regions   
-  
-![image](https://github.com/user-attachments/assets/f440276c-4f27-4310-bda3-63766b64da89)
-
-### 2. Branching Highest Profit Product Sub category(Districts) to gain more insights withing that Region 
-
-![image](https://github.com/user-attachments/assets/c5709565-12b8-43f0-9633-3f9f7e426322)
-
-### 3. Analysis Of High Loss Making Product Sub-Categories As Per The Regions 
-
-![image](https://github.com/user-attachments/assets/4652071d-0aa8-4673-816a-ded0f0891cb9)
-
-### 4. Data Filtered for Cost Analysis for Tables and Bookcases as per Price and Margin on that. 
-
-![image](https://github.com/user-attachments/assets/da2d7c26-02ba-469a-992b-dbb497613f11)
-
-### 5. Cost and Margin Analysis Of Tables and book case's as per High loss making Sub category of Products (Further Branching Regions in to the sub categiries(District) to gain some more Info about geographical analysis)
-
-![image](https://github.com/user-attachments/assets/66d5a551-1d44-491d-900d-45d5366faa49)
 
 
