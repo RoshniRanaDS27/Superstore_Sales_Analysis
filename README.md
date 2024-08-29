@@ -1,6 +1,7 @@
-# Data Analysis Overview
-The Superstore sales dataset for the Canadian market provides a detailed view of sales transactions, segmented by customer categories and product types. This analysis aims to uncover insights into sales performance across different dimensions, including customer segments, product categories, and geographic regions.
-
+# Canadian superstore Data Analysis Overview
+The Superstore sales dataset for the Canadian market provides a detailed view of sales-profit transactions, segmented by customer categories and product types. This analysis aims to uncover insights into sales performance across different dimensions, including customer segments, product categories, and geographic regions.  
+  
+<img src="https://media4.giphy.com/media/f67U9Xc53i4ViUs5T2/giphy.webp?cid=790b7611tipvwy2htxszicnelfw75rwia4vh3cpchn2rebrn&ep=v1_gifs_search&rid=giphy.webp&ct=g" class="card-img-top" alt="Project 1">
 # Data 
 ![image](https://github.com/user-attachments/assets/aec1cf7e-3702-4417-b75e-8606241d76d5)
 
