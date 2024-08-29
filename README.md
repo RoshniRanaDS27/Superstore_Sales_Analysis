@@ -26,6 +26,7 @@ The Superstore sales dataset for the Canadian market provides a detailed view of
 
 ![image](https://github.com/user-attachments/assets/66d5a551-1d44-491d-900d-45d5366faa49)
 
+# Data Exploration
 ## Customer Segments
 The dataset categorizes customers into the following segments:
 
