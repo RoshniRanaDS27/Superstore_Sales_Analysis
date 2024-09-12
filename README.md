@@ -3,7 +3,7 @@ The Superstore sales dataset for the Canadian market provides a detailed view of
   
 <img src="https://media4.giphy.com/media/f67U9Xc53i4ViUs5T2/giphy.webp?cid=790b7611tipvwy2htxszicnelfw75rwia4vh3cpchn2rebrn&ep=v1_gifs_search&rid=giphy.webp&ct=g" class="card-img-top" alt="Project 1">
   
-# Data   
+# D
 ![image](https://github.com/user-attachments/assets/aec1cf7e-3702-4417-b75e-8606241d76d5)
 
 # Analysis Results
